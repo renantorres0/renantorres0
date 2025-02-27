@@ -21,6 +21,8 @@
   <img align="center" alt="Renan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Renan-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Renan-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Renan-TOTVS" height="30" width="30" src="https://www.totvs.com/wp-content/themes/totvs-theme/dist/images/logo-white-border_05d544b1.png">
+  <img align="center" alt="Renan-PowerBI" height="30" width="25" src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/6511e68a7e4c9e3b113990da_6442b779e4e03d774e078fa6_power-bi-icon-logo-E1B451ED39-seeklogo.com.png">
 </div>
   
   ##
