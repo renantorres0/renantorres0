@@ -1,43 +1,111 @@
+<h1 align="center">👋 Olá, eu sou o Renan Torres!</h1>
 
-👋 Hi, I’m Renan Torres!!
+<p align="center">
+  <b>Analista & Engenheiro de Dados</b> · Dev Full Stack · Apaixonado por transformar dados em decisões 📊
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renan-torres-121a06106/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nantorres0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/renantorres07"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+- 📍 São Paulo, Brasil  
+- 📊 Atualmente focado em **Análise e Engenharia de Dados**
+- 🔧 Background sólido como **Dev Full Stack** (JS, Node, React, PHP, C#)
+- 🤖 Construindo pipelines de dados, dashboards e modelos preditivos
+- 🌱 Explorando **Apache Spark, Airflow e arquiteturas de Data Lake**
+- 💡 Acredito que dados bem refinados valem mais do que qualquer petróleo
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 📊 Dados & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📈 BI & Visualização
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+### 🔧 Engenharia de Dados
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 💻 Dev (Background)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🧰 Ferramentas
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TOTVS](https://img.shields.io/badge/TOTVS-FF0000?style=for-the-badge&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/renantorres0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renantorres0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantorres0&layout=compact&langs_count=10&theme=dark"/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renantorres0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/renantorres0)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renantorres0&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/renantorres0)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=renantorres0&theme=tokyonight&hide_border=true&background=0D1117&locale=pt_BR)](https://github.com/renantorres0)
+
 </div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Renan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Renan-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Renan-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Renan-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Renan-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Renan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Renan-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Renan-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Renan-TOTVS" height="30" width="30" src="https://www.totvs.com/wp-content/themes/totvs-theme/dist/images/logo-white-border_05d544b1.png">
-  <img align="center" alt="Renan-PowerBI" height="30" width="25" src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/6511e68a7e4c9e3b113990da_6442b779e4e03d774e078fa6_power-bi-icon-logo-E1B451ED39-seeklogo.com.png">
-</div>
-  
-  ##
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{renantorres0}/count.svg" /></p> 
-  <br>
-</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Dashboard Vendas](https://github.com/renantorres0/Dashboard_Vendas) | 📊 Análise de desempenho de vendas | Power BI · SQL |
+| [Dashboard E-commerce](https://github.com/renantorres0/Dashboard_Ecommerce_X) | 🛒 Métricas e KPIs para e-commerce | Power BI · Python |
+| [Métricas RFV](https://github.com/renantorres0/Metricas_RFV) | 📈 Segmentação de clientes por RFV | Python · Pandas |
+| [Regressão Marketing](https://github.com/renantorres0/Regressao_Marketing) | 📉 Predição de resultado com ML | Python · Scikit-Learn |
+| [Prevenção Churn Streaming](https://github.com/renantorres0/Prevencao_Streaming) | 🎬 Modelo preditivo de churn | Python · ML |
+
+---
+
+## 🐍 Contribuições
 
 <div align="center">
-  <a href="https://instagram.com/renantorres07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nantorres0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-torres-121a06106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://raw.githubusercontent.com/renantorres0/renantorres0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+---
 
-![Github Snake Animation](https://user-images.githubusercontent.com/50845287/198006983-1a7c22e4-633f-41c5-b5f7-201278b1700d.svg)
+<div align="center">
+  <i>"Dados são o novo petróleo — mas só valem quando refinados."</i>
+</div>
