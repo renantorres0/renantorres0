@@ -75,13 +75,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renantorres0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/renantorres0)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renantorres0&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/renantorres0)
+  <img height="210em" src="https://github-readme-azure-rho.vercel.app/api?username=renantorres0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="210em" src="https://github-readme-azure-rho.vercel.app/api/top-langs/?username=renantorres0&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=renantorres0&theme=tokyonight&hide_border=true&background=0D1117&locale=pt_BR)](https://github.com/renantorres0)
-
 </div>
 
 ---
