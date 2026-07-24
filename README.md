@@ -15,7 +15,6 @@
 ## 🧑‍💻 Sobre mim
 
 - 📍 São Paulo, Brasil  
-- 📊 Atualmente focado em **Engenharia de Dados**
 - 🔧 Background sólido como **Dev Full Stack** (JS, Node, React, PHP, C#)
 - 🤖 Construindo pipelines de dados, dashboards e modelos preditivos
 - 🌱 Explorando **Apache Spark, Airflow e arquiteturas de Data Lake**
