@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Renan Torres!</h1>
 
 <p align="center">
-  <b>Analista & Engenheiro de Dados</b> · Dev Full Stack · Apaixonado por transformar dados em decisões 📊
+  <b>Engenheiro de Dados</b> · Dev Full Stack · Apaixonado por transformar dados em decisões 📊
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 📍 São Paulo, Brasil  
-- 📊 Atualmente focado em **Análise e Engenharia de Dados**
+- 📊 Atualmente focado em **Engenharia de Dados**
 - 🔧 Background sólido como **Dev Full Stack** (JS, Node, React, PHP, C#)
 - 🤖 Construindo pipelines de dados, dashboards e modelos preditivos
 - 🌱 Explorando **Apache Spark, Airflow e arquiteturas de Data Lake**
